@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bc7125e9f80c748449dc45f06e95c6be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - treePrefab: {fileID: 1658383669260491761, guid: 0d87f30d8911edc41a74fbe3e3a67da3,
+      type: 3}
+  - plantPrefab: {fileID: 2489716655794567825, guid: 1de0b46e9c0056b44983106e5b61a7da,
+      type: 3}
+  - waterfallPrefab: {fileID: 8644950259367102072, guid: 6df18c2748c424544a427690a240fde1,
+      type: 3}
+  - riverPrefab: {fileID: 8578525793150131877, guid: 33b11493e53f0844badc4d5f9bcad0f8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
